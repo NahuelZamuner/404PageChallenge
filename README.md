@@ -5,7 +5,7 @@ Solution for a challenge from [Devchallenges.io](http://devchallenges.io)
 <h2>Links</h2>
 
 * [Demo](https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE/404-page-challenge)
-* [Solution](https://github.com/NahuelZamuner/404PageChallenge/)
+* [Solution](https://nahuelzamuner.github.io/404PageChallenge/)
 * [Challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY)
 
 
